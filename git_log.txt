@@ -1,0 +1,5 @@
+6d3240b Agregad oel DUIA de restricciones del negocio
+e3a06f0 agregados los triggers para validar estado de transacciones
+a89aae5 Add AGENTS.md and security protocol documentation
+a7a4492 upload
+931b0ae first commit
